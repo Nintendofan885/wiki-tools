@@ -14,7 +14,7 @@
         "name" : "hay-sdsearch",
         "author" : "Hay Kranen",
         "repository" : "https://github.com/hay/wiki-tools.git",
-        "url" : "http://tools.wmflabs.org/hay/sdsearch",
+        "url" : "https://hay.toolforge.org/sdsearch",
         "keywords" : "wikidata, query, search, commons, sdoc, structured-data"
     },
     {
@@ -23,7 +23,7 @@
         "name" : "hay-qsml",
         "author" : "Hay Kranen",
         "repository" : "https://github.com/hay/wiki-tools.git",
-        "url" : "http://tools.wmflabs.org/hay/qsml",
+        "url" : "https://hay.toolforge.org/qsml",
         "keywords" : "wikidata, quickstatements, template"
     },
     {
@@ -32,7 +32,7 @@
         "name" : "hay-tinklify",
         "author" : "Hay Kranen",
         "repository" : "https://github.com/hay/wiki-tools.git",
-        "url" : "http://tools.wmflabs.org/hay/tinklify",
+        "url" : "https://hay.toolforge.org/tinklify",
         "keywords" : "wikidata, links, transform, convert"
     },
     {
@@ -41,7 +41,7 @@
         "name" : "hay-minefield",
         "author" : "Hay Kranen",
         "repository" : "https://github.com/hay/wiki-tools.git",
-        "url" : "http://tools.wmflabs.org/hay/minefield",
+        "url" : "https://hay.toolforge.org/minefield",
         "keywords" : "wikidata, commons, media, convert"
     },
     {
@@ -50,7 +50,7 @@
         "name" : "hay-closetome",
         "author" : "Hay Kranen",
         "repository" : "https://github.com/hay/wiki-tools.git",
-        "url" : "http://tools.wmflabs.org/hay/closetome",
+        "url" : "https://hay.toolforge.org/closetome",
         "keywords" : "wikidata, query, map, location, mobile"
     },
     {
@@ -59,7 +59,7 @@
         "name" : "hay-multisearch",
         "author" : "Hay Kranen",
         "repository" : "https://github.com/hay/wiki-tools.git",
-        "url" : "http://tools.wmflabs.org/hay/multisearch",
+        "url" : "https://hay.toolforge.org/multisearch",
         "keywords" : "wikidata, search, api, csv, wikipedia"
     },
     {
@@ -68,7 +68,7 @@
         "name" : "hay-vizquery",
         "author" : "Hay Kranen",
         "repository" : "https://github.com/hay/wiki-tools.git",
-        "url" : "http://tools.wmflabs.org/hay/vizquery",
+        "url" : "https://hay.toolforge.org/vizquery",
         "keywords" : "wikidata, query, skim, search, api, json"
     },
     {
@@ -77,7 +77,7 @@
         "name" : "hay-wdskim",
         "author" : "Hay Kranen",
         "repository" : "https://github.com/hay/wiki-tools.git",
-        "url" : "http://tools.wmflabs.org/hay/wdskim",
+        "url" : "https://hay.toolforge.org/wdskim",
         "keywords" : "wikidata, query, skim, search, api, json"
     },
     {
@@ -104,7 +104,7 @@
         "name" : "hay-wdtranslate",
         "author" : "Hay Kranen",
         "repository" : "https://github.com/hay/wiki-tools.git",
-        "url" : "http://tools.wmflabs.org/hay/wdtranslate",
+        "url" : "https://hay.toolforge.org/wdtranslate",
         "keywords" : "wikidata, translate, language, translation, i18n, languages, dictionary"
     },
     {
@@ -113,7 +113,7 @@
         "name" : "hay-gwtcook",
         "author" : "Hay Kranen",
         "repository" : "https://github.com/hay/wiki-tools.git",
-        "url" : "http://tools.wmflabs.org/hay/gwtcook",
+        "url" : "https://hay.toolforge.org/gwtcook",
         "keywords" : "gwt,xml,transform,glam,commons,uploads,bot"
     },
     {
@@ -122,7 +122,7 @@
         "name" : "hay-langviews",
         "author" : "Hay Kranen",
         "repository" : "https://github.com/hay/wiki-tools.git",
-        "url" : "http://tools.wmflabs.org/hay/langviews",
+        "url" : "https://hay.toolforge.org/langviews",
         "keywords" : "language,pageviews,statistics,stats,views"
     },
     {
@@ -131,14 +131,14 @@
         "name" : "hay-reccat",
         "author" : "Hay Kranen",
         "repository" : "https://github.com/hay/wiki-tools.git",
-        "url" : "http://tools.wmflabs.org/hay/reccat",
+        "url" : "https://hay.toolforge.org/reccat",
         "keywords" : "category, sort, glam"
     },
     {
         "name" : "hay-picapermalink",
         "title" : "Pica Permalink",
         "description" : "A small Javascript bookmarklet to generate a permalink to library catalogues that uses the OCLC PICA software.",
-        "url" : "http://tools.wmflabs.org/hay/kbpermalink",
+        "url" : "https://hay.toolforge.org/kbpermalink",
         "keywords" : "kb, bookmarklet, permalink, libraries, oclc, pica",
         "author" : "Hay Kranen",
 		"repository" : "https://github.com/hay/wiki-tools.git"
@@ -147,7 +147,7 @@
         "name" : "hay-nadownload",
         "title" : "NA Download",
         "description" : "A small tool to download all images from a Dutch National Archive inventory.",
-        "url" : "http://tools.wmflabs.org/hay/nadownload",
+        "url" : "https://hay.toolforge.org/nadownload",
         "keywords" : "na, nationaal archief, download, glam, inventory",
         "author" : "Hay Kranen",
 		"repository" : "https://github.com/hay/wiki-tools.git"
@@ -156,7 +156,7 @@
         "name" : "hay-sgdtransform",
         "title" : "SGD Transform",
         "description" : "Add a source URL to XML files provided by the Staten Generaal Digitaal API.",
-        "url" : "http://tools.wmflabs.org/hay/sgdtransform",
+        "url" : "https://hay.toolforge.org/sgdtransform",
         "keywords" : "sgd, xml, staten generaal digitaal, kb",
         "author" : "Hay Kranen",
 		"repository" : "https://github.com/hay/wiki-tools.git"
@@ -165,7 +165,7 @@
         "name" : "hay-exturl",
         "title" : "External URL stats",
         "description" : "A better External links search. Collates all the links so you can view which Wikipedia pages have the most external links to a pattern.",
-        "url" : "http://tools.wmflabs.org/hay/exturl",
+        "url" : "https://hay.toolforge.org/exturl",
         "keywords" : "url, links, search, external links, stats",
         "author" : "Hay Kranen",
 		"repository" : "https://github.com/hay/wiki-tools.git"
@@ -174,7 +174,7 @@
         "name" : "hay-directory",
         "title" : "Tools Directory",
         "description" : "A way to easily discover Wikimedia-related tools.",
-        "url" : "http://tools.wmflabs.org/hay/directory",
+        "url" : "https://hay.toolforge.org/directory",
         "keywords" : "tools, recursion, discoverability",
         "author" : "Hay Kranen",
 		"repository" : "https://github.com/hay/wiki-tools.git"
@@ -183,7 +183,7 @@
         "name" : "hay-directory",
         "title" : "Wikimedia Documentation Directory",
         "description" : "A way to easily discover Wikimedia-related documentation including all outreach activities e.g GLAM and education.",
-        "url" : "http://tools.wmflabs.org/hay/wdd",
+        "url" : "https://hay.toolforge.org/wdd",
         "keywords" : "documentation, outreach, discoverability",
         "author" : "Hay Kranen",
         "repository" : "https://github.com/hay/wiki-tools.git"
@@ -192,7 +192,7 @@
         "name" : "hay-wdview",
         "title" : "Wikidata View",
         "description" : "A simple Reasonator-like viewer for Wikidata items using the simplified Wikidata Readyonly API.",
-        "url" : "http://tools.wmflabs.org/hay/wdview",
+        "url" : "https://hay.toolforge.org/wdview",
         "keywords" : "wikidata, reasonator, api, visual, reuse",
         "author" : "Hay Kranen",
 		"repository" : "https://github.com/hay/wiki-tools.git"
@@ -201,7 +201,7 @@
         "name" : "hay-nasearch",
         "title" : "NA search",
         "description" : "A tool to do a mass search in the Dutch National Archive photo collection",
-        "url" : "http://tools.wmflabs.org/hay/nasearch",
+        "url" : "https://hay.toolforge.org/nasearch",
         "keywords" : "search, nationaal archief, national archive, photos, glam",
         "author" : "Hay Kranen",
 		"repository" : "https://github.com/hay/wiki-tools.git"
@@ -210,7 +210,7 @@
         "name" : "hay-gtaa",
         "title" : "GTAA Reasonator",
         "description" : "Reasonator-like tool for viewing items in the GTAA (Gemeenschappelijke Thesaurus Audiovisuele Archieven ).",
-        "url" : "http://tools.wmflabs.org/hay/gtaa",
+        "url" : "https://hay.toolforge.org/gtaa",
         "keywords" : "gtaa, wikidata, visual, semantics",
         "author" : "Hay Kranen",
 		"repository" : "https://github.com/hay/wiki-tools.git"
@@ -219,7 +219,7 @@
         "name" : "hay-propbrowse",
         "title" : "Wikidata Property Browser",
         "description" : "A quick way to search and view all properties on Wikidata",
-        "url" : "http://tools.wmflabs.org/hay/propbrowse",
+        "url" : "https://hay.toolforge.org/propbrowse",
         "keywords" : "wikidata,browse,search,documentation",
         "author" : "Hay Kranen",
         "repository" : "https://github.com/hay/wiki-tools.git"
