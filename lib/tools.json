@@ -26,7 +26,7 @@
 
     "qsml" : {
         "title" : "QSML",
-        "description" : "QuickStatements Macro Language: speed up your <a href=\"https://tools.wmflabs.org/quickstatements/\">QuickStatements</a> by using macros."
+        "description" : "QuickStatements Macro Language: speed up your <a href=\"https://quickstatements.toolforge.org/\">QuickStatements</a> by using macros."
     },
 
     "chantek" : {
@@ -94,7 +94,7 @@
 
     "wdview" : {
         "title" : "Wikidata View",
-        "description" : "A simple <a href=\"http://tools.wmflabs.org/reasonator/\">Reasonator</a>-like viewer for Wikidata items using the simplified Wikidata Readyonly API."
+        "description" : "A simple <a href=\"https://reasonator.toolforge.org/\">Reasonator</a>-like viewer for Wikidata items using the simplified Wikidata Readyonly API."
     },
 
     "reccat" : {
@@ -104,7 +104,7 @@
 
     "gtaa" : {
         "title" : "GTAA Reasonator",
-        "description" : "The <a href=\"tools.wmflabs.org/reasonator/\">Reasonator</a> is an awesome tool for viewing <a href=\"http://www.wikidata.org\">Wikidata</a> items. This tool tries to provide the same view for items in the <a href=\"https://sites.google.com/a/beeldengeluid.nl/gtaa/\">GTAA</a>."
+        "description" : "The <a href=\"https://reasonator.toolforge.org/\">Reasonator</a> is an awesome tool for viewing <a href=\"https://www.wikidata.org\">Wikidata</a> items. This tool tries to provide the same view for items in the <a href=\"https://sites.google.com/a/beeldengeluid.nl/gtaa/\">GTAA</a>."
     },
 
     "kbpermalink" : {
